@@ -1,5 +1,4 @@
 # HungryHub
--
 Hungry Hub is a online food ordering and delivery platform. I have a created this app as a clone of swiggy application.
 Tech Stack: React.js, JavaScript, Html, CSS, Parcel.
 -----------------------------------------------------------------------------------------------------------------------------
